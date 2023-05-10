@@ -7,7 +7,7 @@
 // })
 
 var typed = new Typed(".typing", {
-    strings: ["web designer", "Web Designer", "Web Developer", "Student","Part time PornStar"],
+    strings: ["web designer", "Web Designer", "Web Developer", "Student"],
     typeSpeed: 100,
     backSpeed: 60,
     loop: true
